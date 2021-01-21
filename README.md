@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+1. To run on own host `npm run build` && `npm run start`
